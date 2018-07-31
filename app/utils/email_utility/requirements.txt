@@ -1,0 +1,3 @@
+# need modified the source code of exchangelib
+exchangelib==1.9.4
+pyexchange==0.6

@@ -1,0 +1,8 @@
+name,path,site_root,group_id,thumbnail_path,icon,date_key,type
+Plan Performance,Fusion_Sunsuper/PlanPerformance,/t/GX,1,icon_default.png,icon_default,6/30/2017,2
+Entity Performance,Fusion_Sunsuper/EntityPerformance,/t/GX,1,icon_default.png,icon_default,6/30/2017,2
+Plan Attribution,Fusion_Sunsuper/PlanAttribution,/t/GX,1,icon_default.png,icon_default,6/30/2017,2
+Risk and Compliance,Fusion_Sunsuper/RiskandCompliance,/t/GX,1,icon_default.png,icon_default,6/30/2017,2
+Country,Fusion_Sunsuper/Country,/t/GX,1,icon_default.png,icon_default,6/30/2017,2
+Sector,Fusion_Sunsuper/Sector,/t/GX,1,icon_default.png,icon_default,6/30/2017,2
+Currency,Fusion_Sunsuper/Currency,/t/GX,1,icon_default.png,icon_default,6/30/2017,2

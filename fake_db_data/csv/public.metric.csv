@@ -1,0 +1,18 @@
+id,name,period,data_source
+1,Ending Market Value,,GX Innovation L
+2,Absolute Return,1 month,GX Innovation L
+3,Benchmark Return,1 month,GX Innovation L
+4,Excess Return,1 month,GX Innovation L
+5,Absolute Return,3 month,GX Innovation L
+6,Benchmark Return,3 month,GX Innovation L
+7,Excess Return,3 month,GX Innovation L
+8,Absolute Return,1 year,GX Innovation L
+9,Benchmark Return,1 year,GX Innovation L
+10,Excess Return,1 year,GX Innovation L
+11,Ex-ante Standard Deviation,,GX Innovation L
+12,Ex-ante VaR,,GX Innovation L
+13,Ex-post Information Ratio,,GX Innovation L
+14,Ex-post Standard Deviation,,GX Innovation L
+15,Ex-post Tracking Error,,GX Innovation L
+16,Fee Amount,,GX Innovation L
+17,Fee Adjusted Return,,GX Innovation L

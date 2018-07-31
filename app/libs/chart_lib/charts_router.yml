@@ -1,0 +1,52 @@
+#  configuration file for charting
+#  ptport/
+#  this will eventually be moved into cassandra
+#  this is yaml but is read into dict to json equivalent
+#  we keep yaml because we can comment the file, suggest maintain yaml
+#  we can send yaml over http as 
+#     "Content-Type" : "text/x-yaml"
+#     
+#    with open('simrun_config.yaml', 'r') as config_file:
+#       try:
+#           config_simrun_str = config_file.read()
+#           config_simrun_dict = yaml.load(config_simrun_str)
+#       except yaml.YAMLError as e:
+#           raise e
+
+
+version: 0.1
+name: chart component 
+
+# type in ['COMBINATION', 'COMBINE', 'WATERFALL', 'COLUMN', 'STACKED-COLUMN',
+#  'MULTIPLE-LINE', 'PERCENTAGE-AREA', 'PIE', 'HEAT-MAP', 'GROUP-COLUMN', 'MAP']
+
+charts:
+  MULTIPLE-LINE:
+    app.libs.chart_lib.models.multiple_line_chart.MultipleLineChart
+  COMBINE:
+    app.libs.chart_lib.models.combine_chart.CombineChart
+  COMBINATION:
+    app.libs.chart_lib.models.combine_chart.CombineChart
+  PIE:
+    app.libs.chart_lib.models.pie_chart.PieChart
+  COLUMN:
+    app.libs.chart_lib.models.column_chart.ColumnChart
+  WATERFALL:
+    app.libs.chart_lib.models.waterfall_chart.WaterfallChart
+  GROUP-COLUMN:
+    app.libs.chart_lib.models.column_chart.ColumnChart
+  STACKED-COLUMN:
+    app.libs.chart_lib.models.stacked_column_chart.StackedColumnChart
+  HEAT-MAP:
+    app.libs.chart_lib.models.heatmap_chart.HeatmapChart
+  PERCENTAGE-AREA:
+    app.libs.chart_lib.models.percentage_area_chart.PercentageAreaChart
+  MAP:
+    app.libs.chart_lib.models.map_chart.MapChart
+
+
+
+
+
+
+

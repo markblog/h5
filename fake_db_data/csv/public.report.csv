@@ -1,0 +1,3 @@
+id,name,user_id,path,report_template_id,report_type_id,updated_time,created_time
+1,Test,28,reports/pdf/1/2018-01-22/test.pdf,,2,2018-01-22 08:31:05.614384,2018-01-22 08:31:05.614384
+2,Template A,28,reports/pdf/1/2018-01-22/test.pdf,2,3,2018-01-22 08:31:05.614384,2018-01-22 08:31:05.614384

@@ -1,0 +1,6 @@
+id,email,name,tel,about,position,role_id,group_id,password_hash
+3,YHuang@StateStreet.com,Leo,,,,2,1,pbkdf2:sha256:50000$RRSGcXbi$7f6b43b212da2f07ea594ea9442d4d104ed971daf74441000e2b0f1f0debc8d5
+8,YHuang1@StateStreet.com,Mark,,,,2,1,pbkdf2:sha256:50000$18xizzf0$02ce489d4fe9d495b8ab2f5cf8aee4905f3e2a404c91a22e0a3959b8e5975b06
+26,YHuang3@StateStreet.com,Partrick,,,,1,1,pbkdf2:sha256:50000$D33FzfU2$b8dd562246f901dc5049095981abe93ba757bc28f52173bae35098fd18cc3d2e
+30,hjin3@statestreet.com,hao,,,,2,1,pbkdf2:sha256:50000$GueOpELq$160e9cb1acd040e7ebf060bf955190d62be3cf82fa34472a162608b5bae5eaa3
+28,ssgx,ssgx,18732409823,,,1,1,pbkdf2:sha256:50000$eenlz2c4$29ca79226b6e12c451da56d72413627c17b328abac0a6c8a9d492e6cfe011d4b
