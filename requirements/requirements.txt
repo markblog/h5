@@ -24,7 +24,7 @@ exchangelib==1.9.4
 Flask==0.12.2
 Flask-APScheduler==1.8.0
 Flask-BabelEx==0.9.3
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-Login==0.4.0
 Flask-Mail==0.9.1
 Flask-Migrate==2.0.4
